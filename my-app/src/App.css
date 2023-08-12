@@ -1,38 +1,54 @@
+/* App.css */
+
+/* Tüm sayfa boyunca genişlik ve yükseklik ayarları */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* App bileşeni */
 .App {
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* Container içeriği ortala */
+.Container {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* H1 etiketi (başlık) */
+h1 {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Iframe içeriği ortala */
+.ratio-16x9 {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+/* Paragraf stil ayarları */
+.paragraf {
+  text-align: left;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.5;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.paragraf-sag {
+  text-align: right;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.5;
+  color: white;
 }
