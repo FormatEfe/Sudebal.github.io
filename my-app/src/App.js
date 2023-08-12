@@ -9,7 +9,7 @@ function App() {
       <Container>
         <h1>SUDEBALIM SENİ ÇOK SEVİYORUM</h1>
         <div className="ratio ratio-16x9">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/gHh0qjeH2g0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/gHh0qjeH2g0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
         <p className="paragraf">
           Aşkım öncelikle senden olan ne varsa hepsi için özür diliyorum çünkü gerçekten şu anki kafam eskide olsa asla hiç birini
