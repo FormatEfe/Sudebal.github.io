@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sudebal.github.io/static/css/main.9ccdc283.css",
+    "main.js": "/Sudebal.github.io/static/js/main.eae82768.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Sudebal.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Sudebal.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sudebal.github.io/index.html",
+    "main.9ccdc283.css.map": "/Sudebal.github.io/static/css/main.9ccdc283.css.map",
+    "main.eae82768.js.map": "/Sudebal.github.io/static/js/main.eae82768.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Sudebal.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ccdc283.css",
+    "static/js/main.eae82768.js"
+  ]
+}
